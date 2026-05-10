@@ -1,5 +1,5 @@
 
-const MODEL_URL = "https://teachablemachine.withgoogle.com/models/YOUR_ID/";
+const MODEL_URL = "https://teachablemachine.withgoogle.com/models/0rUGT0xC9/";
 const UNLOCK_CLASS  = "Thumbs Up";
 const THRESHOLD     = 0.85;
 const HOLD_FRAMES   = 6;
